@@ -708,3 +708,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   text-align: center;
   margin: 10px;
 }
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="img-fluid"] {
+    width: 100%;
+  }
+}
