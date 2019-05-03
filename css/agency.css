@@ -701,3 +701,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   text-align: center;
   margin: 10px;
 }
+.paper{
+  border-radius: 50px;
+  height: 350px !important;
+  width:  300px !important;
+  text-align: center;
+  margin: 10px;
+}
