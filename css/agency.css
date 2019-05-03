@@ -445,8 +445,8 @@ header.masthead .intro-text .intro-heading {
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 80px;
-  height: 80px;
+  width: 40px;
+  height: 40px;
   margin-left: 0;
   text-align: center;
   color: white;
@@ -692,4 +692,12 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+.edu{
+  border-radius: 50px;
+  height: 300px !important;
+  width:  300px !important;
+  text-align: center;
+  margin: 10px;
 }
